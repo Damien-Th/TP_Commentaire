@@ -1,0 +1,52 @@
+
+body {
+    width: 80%;
+    margin: auto ;
+}
+
+h1, h3
+{
+    text-align:center;
+}
+h3
+{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+.news p
+{
+    background-color:#CCCCCC;
+    margin-top:0px;
+}
+.news
+{
+    display: flex;
+    width:100%;
+    margin:auto;
+}
+
+a
+{
+    text-decoration: none;
+    color: blue;
+    margin-left: 4px;
+}
+
+div.page_nav {
+    display: flex !important;
+}
+
+.page_nav p {
+    margin: 0;
+}
+
+.billet{
+    width: 80%;
+}
+
+.edit{
+    margin: auto 0;
+    width: 20%
+}
